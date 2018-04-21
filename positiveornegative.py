@@ -6,3 +6,5 @@ def main():
     print("NEGATIVE")
   else:
     print("ZERO")
+if __name__=='__main__':
+  main()
